@@ -2,5 +2,5 @@
 *.db
 *.log
 # Ignore target bin folders
-/**bin/
-/**target/
+**/bin/
+**/target/
